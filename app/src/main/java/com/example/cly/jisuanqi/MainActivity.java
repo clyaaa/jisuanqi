@@ -322,6 +322,7 @@ class ZiFu{
     }
 }
 
+
 class LinkStack<E> {
     Node<E> top;
     public LinkStack(){
